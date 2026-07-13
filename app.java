@@ -6,3 +6,5 @@ public static void main(string[]args){
 	System.out.println("student id:"+id);
 	System.out.println("student name:"+name);
 System.out.println("student age:"+age);}}
+System.out.println("student age:"+age);}}
+
